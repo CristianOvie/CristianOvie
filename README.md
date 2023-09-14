@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @CristianOvie
 - 👀 I’m interested in programation and security
 - 🌱 I’m currently learning telecomunications 
-- 💞️ I’m looking to collaborate on page web creat
+- 💞️ I’m looking to collaborate on
 - 📫 How to reach me ...
 
 <!---
